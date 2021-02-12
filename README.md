@@ -1,3 +1,3 @@
 # hello-world
 new project
-hi i dont get python 
+hi its not a tuesday
